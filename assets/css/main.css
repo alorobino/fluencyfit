@@ -22,7 +22,7 @@ section, summary, time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font-family: 'Pacifico', cursive;
+	font-family: Futura, "Trebuchet MS", Arial, sans-serif;
 	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
@@ -3909,6 +3909,7 @@ input, select, textarea {
 			}
 
 		}
+
 
 
 
