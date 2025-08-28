@@ -22,7 +22,7 @@ section, summary, time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font-family: 'Lazy Dog', sans-serif;
+	font: 'Lazy Dog', sans-serif;
 	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
@@ -3909,4 +3909,5 @@ input, select, textarea {
 			}
 
 		}
+
 
